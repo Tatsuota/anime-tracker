@@ -1,0 +1,20 @@
+# Build artifacts / binaries (published via GitHub Releases, not committed)
+*.exe
+*.apk
+build/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Android / Gradle
+.gradle/
+.idea/
+.kotlin/
+local.properties
+*.keystore
+*.jks
+keystore.properties
