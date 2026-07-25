@@ -3,8 +3,6 @@
 A weekly anime new-episode airing tracker — track your watch list and see what's
 airing this week, pulled live from AniList.
 
-*Built with [Claude Code](https://claude.com/claude-code).*
-
 ![Anime Tracker screenshot](docs/screenshot.png)
 
 ## Download
